@@ -1,0 +1,406 @@
+/*@author: Vahab Vahabzada*/
+/*dektop*/
+@media(min-width:1400px){
+    .container{
+        width: 1192px;
+        height: 798px;
+    }
+    .header{
+        width: 365px;
+        height: 93px;
+    }
+    .header p{
+        position: absolute;
+        width: 365px;
+        height: 93px;
+        left: 124px;
+        top: 91px;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 101.38%;
+        color: #000000;
+    }
+    .textup{
+        position: absolute;
+        width: 662px;
+        height: 374px;
+        left: 124px;
+        top: 202px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 150%;
+        color: #000000;
+    }
+    .pp1{
+        position: absolute;
+        width: 150px;height: 39px;
+        left: 488px;
+        top: 740px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .pp2{
+        position: absolute;
+        width: 150px;
+        height: 39px;
+        left: 733px;
+        top: 740px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .pp3{
+        position: absolute;
+        width: 150px;
+        height: 39px;
+        left: 976px;
+        top: 740px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .p1{
+        position: absolute;
+        width: 150px;
+        height: 39px;
+        left: 488px;
+        top: 780px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .p2{
+        position: absolute;
+        width: 150px;
+        height: 39px;
+        left: 733px;
+        top: 780px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .p3{
+        position: absolute;
+        width: 150px;
+        height: 39px;
+        left: 976px;
+        top: 780px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 130%;
+        color: #000000;
+    }
+    .img1{
+        background:url("/res/img1.png");
+        position: absolute;
+        width: 314px;
+        height: 315px;
+        left: 976px;
+        top: 226px;
+    }
+    .ellipse{
+        background:url("/res/ellipse1.png");
+        position: absolute;
+        width: 366px;
+        height: 59px;
+        left: 950px;
+        top: 511px;
+    }
+    .img2{
+        background:url("/res/img2.png");
+        position: absolute;
+        width: 232px;
+        height: 203px;
+        left: 124px;
+        top: 670px;
+    }
+}
+
+
+
+
+    /*tablet*/
+    @media(min-width:830px) and (max-width:1399px){
+        .container{
+            width: 690.37px;
+            height: 386.95px;
+        }
+        .header{
+            width: 211.4px;
+            height: 53.86px;
+        }
+        .header p{
+            position: absolute;
+            width: 211.4px;
+            height: 53.86px;
+            left: 72px;
+            top: 56px;
+            font-family: 'Roboto Slab';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 101.38%;
+            color: #000000;
+        }
+        .textup{
+            position: absolute;
+            width: 383.41px;
+            height: 216.61px;
+            left: 72px;
+            top: 120.29px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 150%;
+            color: #000000;
+        }
+        .pp1{
+            position: absolute;
+            width: 86.88px;
+            height: 22.59px;
+            left: 72px;
+            top: 407px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .pp2{
+            position: absolute;
+            width: 86.88px;
+            height: 22.59px;
+            left: 213.9px;
+            top: 407px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .pp3{
+            position: absolute;
+            width: 86.88px;
+            height: 22.59px;
+            left: 354.63px;
+            top: 407px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p1{
+            position: absolute;
+            width: 86.88px;
+            height: 22.59px;
+            left: 72px;
+            top: 430.17px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 11px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p2{
+            position: absolute;
+            width: 108px;
+            height: 23px;
+            left: 214.1px;
+            top: 429.95px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 11px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p3{
+            position: absolute;
+            width: 86.88px;
+            height: 22.59px;
+            left: 354.63px;
+            top: 430.17px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 11px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .img1{
+            background:url("/res/img11.png");
+            position: absolute;
+            width: 181.86px;
+            height: 182.44px;
+            left: 565.45px;
+            top: 134.19px;
+        }
+        .ellipse{
+            background: url("/res/ellipse2.png");
+            position: absolute;
+            width: 211.98px;
+            height: 34.17px;
+            left: 550.39px;
+            top: 299.25px;
+        }
+    }
+    /*mobile*/
+    @media(min-width:375px) and (max-width:829px){
+        .container{
+            width: 309.47px;
+            height: 596px;
+        }
+        .header{
+            width: 211.4px;
+            height: 53.86px;
+        }
+        .header p{
+            position: absolute;
+            width: 170.08px;
+            height: 43.34px;
+            left: 36px;
+            top: 56px;
+            font-family: 'Roboto Slab';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 101.38%;
+            color: #000000;
+        }
+        .textup{
+            position: absolute;
+            width: 308.47px;
+            height: 174.27px;
+            left: 36px;
+            top: 107.72px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 150%;
+            color: #000000;
+        }
+        .pp1{
+            position: absolute;
+            width: 69.9px;
+            height: 18.17px;
+            left: 35px;
+            top: 544px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .pp2{
+            position: absolute;
+            width: 69.9px;
+            height: 18.17px;
+            left: 154.16px;
+            top: 544px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 130%;
+            color: #000000;
+
+        }
+        .pp3{
+            position: absolute;
+            width: 69.9px;
+            height: 18.17px;
+            left: 35px;
+            top: 615px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p1{
+            position: absolute;
+            width: 86px;
+            height: 18px;
+            left: 35px;
+            top: 563px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p2{
+            position: absolute;
+            width: 86.89px;
+            height: 18.5px;
+            left: 154.33px;
+            top: 562.46px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .p3{
+            position: absolute;
+            width: 76px;
+            height: 18px;
+            left: 35px;
+            top: 634px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 130%;
+            color: #000000;
+        }
+        .img1{
+            background:url("/res/img111.png");
+            position: absolute;
+            width: 170.55px;
+            height: 160.29px;
+            left: 101px;
+            top: 338px;
+        }
+        .ellipse{
+            background: url("/res/ellipse3.png");
+            position: absolute;
+            width: 170.55px;
+            height: 27.49px;
+            left: 101px;
+            top: 470.8px;
+        }
+    }
